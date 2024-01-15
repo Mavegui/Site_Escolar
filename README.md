@@ -1,4 +1,5 @@
 # Site_Escolar
-Uma criação minha, de um trabalho de conclusão de curso técnico no ensino médio.
+Uma criação minha, de conclusão de curso técnico no ensino médio.
 
-Faltando pequenos detalhes.
+Primeiro projeto sério de desenvolvedor.
+
